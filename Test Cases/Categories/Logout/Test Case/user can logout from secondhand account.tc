@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user can logout from secondhand account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f519e41b-d174-40a4-9801-5a866147764b</testCaseGuid>
+</TestCaseEntity>
