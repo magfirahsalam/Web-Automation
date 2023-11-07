@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldalamat</name>
+   <tag></tag>
+   <elementGuidId>22cc92bb-0857-4833-b913-6f2f44aee25a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id='user_address']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea[@id='user_address']</value>
+      <webElementGuid>9b81eaf3-5b87-4afb-beb5-16d91f57faa1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

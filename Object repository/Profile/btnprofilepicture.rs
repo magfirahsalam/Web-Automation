@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnprofilepicture</name>
+   <tag></tag>
+   <elementGuidId>1c4093fc-4be0-42e0-8b0c-03274f94f703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src='https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ204IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--378b669c24f52f96a7a7df277fc3f2f6f0482bdc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLUUFXa0NrQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68ce5b37660f0527e00bd1e60af75a7b48156984/Tame-Impala-Currents-Art-designed-for-Cosmic-_now-The-Glitter-_-Gold_-by-_VINCENZIO_ART.jpg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src='https://secondhand.binaracademy.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ204IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--378b669c24f52f96a7a7df277fc3f2f6f0482bdc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLUUFXa0NrQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68ce5b37660f0527e00bd1e60af75a7b48156984/Tame-Impala-Currents-Art-designed-for-Cosmic-_now-The-Glitter-_-Gold_-by-_VINCENZIO_ART.jpg']</value>
+      <webElementGuid>265857a6-7440-43f6-b216-d1c2b4f920dd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

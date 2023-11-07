@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldnohandphone</name>
+   <tag></tag>
+   <elementGuidId>3716f134-73b3-428d-b933-53f7b7d17d1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user_phone_number']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user_phone_number']</value>
+      <webElementGuid>139d236d-0df9-42d7-bf7a-cb5763a2a06a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
