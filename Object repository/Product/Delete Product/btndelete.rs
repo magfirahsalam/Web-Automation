@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btndelete</name>
+   <tag></tag>
+   <elementGuidId>589b5dda-42e4-4554-a1e2-8f48112dcd86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.btn-danger</value>
+      <webElementGuid>a9ff67f4-2634-4145-a7aa-a1bbccb35529</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

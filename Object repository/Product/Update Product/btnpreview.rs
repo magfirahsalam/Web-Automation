@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnpreview</name>
+   <tag></tag>
+   <elementGuidId>7a89df81-c645-4629-8bef-d8d5b4003bca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.btn-outline-primary</value>
+      <webElementGuid>e9fa927e-3fef-42c6-9628-9ee40f0b9599</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

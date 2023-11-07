@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnedit</name>
+   <tag></tag>
+   <elementGuidId>220c68df-94ea-454d-aa43-8cbcfe0736f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.btn-outline-primary</value>
+      <webElementGuid>db81508d-1572-49a5-b53d-70796c27cfc9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

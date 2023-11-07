@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>diminati</name>
+   <tag></tag>
+   <elementGuidId>9ebd79d0-e9db-421d-90e0-49a5d3e524d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[.='Diminati']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[.='Diminati']</value>
+      <webElementGuid>8de8192d-42f3-4d43-9d63-b725d3a6436d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

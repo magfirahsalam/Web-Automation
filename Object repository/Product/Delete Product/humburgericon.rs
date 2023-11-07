@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>humburgericon</name>
+   <tag></tag>
+   <elementGuidId>e5ad1ad5-b9e5-45fd-9139-e0e1cbe09a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.bi-list-ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.bi-list-ul</value>
+      <webElementGuid>bd9b02ee-4bc6-48ca-b5bd-e4413eedd8ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

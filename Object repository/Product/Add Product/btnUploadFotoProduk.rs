@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnUploadFotoProduk</name>
+   <tag></tag>
+   <elementGuidId>857ad131-95c0-4749-a150-0f68a767ba8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='product_images']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='product_images']</value>
+      <webElementGuid>79cbba1c-7e2e-43be-8bc3-2e8ade37e9e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
