@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04 Verify offer status become rejected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99b7faaf-cb28-458d-80b8-89c41b5cf24d</testCaseGuid>
+</TestCaseEntity>
