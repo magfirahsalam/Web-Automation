@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldEmailDaftar</name>
+   <tag></tag>
+   <elementGuidId>f99ae198-b5be-4f21-b90a-4f7a36f4f99a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='user_email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='user_email']</value>
+      <webElementGuid>fe487c8e-0839-4e13-ab64-3a37f5b51099</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
