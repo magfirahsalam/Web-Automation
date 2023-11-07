@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnMasuk</name>
+   <tag></tag>
+   <elementGuidId>55c16bf5-fa2e-4bc2-9491-fc3272c473d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(.,'Masuk')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(.,'Masuk')]</value>
+      <webElementGuid>65cbf1d9-4a8e-4cd5-92a8-ae1899b826e8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

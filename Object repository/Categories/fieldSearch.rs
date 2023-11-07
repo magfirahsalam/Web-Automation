@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldSearch</name>
+   <tag></tag>
+   <elementGuidId>09450e65-2b7c-42cd-a2ee-a67bcd6559c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='q']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='q']</value>
+      <webElementGuid>8ed137b3-94ea-42a4-9604-409eb17259d9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

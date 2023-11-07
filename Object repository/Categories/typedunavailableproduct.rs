@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>typedunavailableproduct</name>
+   <tag></tag>
+   <elementGuidId>b24515b1-5530-484d-ab6d-1415f1827b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>head</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>head</value>
+      <webElementGuid>967c9d33-b087-42f6-8bdd-a69e9f0b7706</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
