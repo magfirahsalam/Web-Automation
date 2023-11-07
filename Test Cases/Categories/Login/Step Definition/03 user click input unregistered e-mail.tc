@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 user click input unregistered e-mail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29153fd0-b92c-422b-b166-f4a7db85556a</testCaseGuid>
+</TestCaseEntity>
