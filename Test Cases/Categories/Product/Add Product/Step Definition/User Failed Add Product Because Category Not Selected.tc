@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Failed Add Product Because Category Not Selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>433cf23c-50ce-4284-99eb-b71430a2f03d</testCaseGuid>
+</TestCaseEntity>

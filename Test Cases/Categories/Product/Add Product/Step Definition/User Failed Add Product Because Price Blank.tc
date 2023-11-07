@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Failed Add Product Because Price Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b8e74d0-06ab-45be-abf6-b2cb5cf5dc42</testCaseGuid>
+</TestCaseEntity>

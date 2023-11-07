@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Failed Add Product Because All Field Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbe261ec-de81-479b-8a11-fe2c0cd83092</testCaseGuid>
+</TestCaseEntity>
