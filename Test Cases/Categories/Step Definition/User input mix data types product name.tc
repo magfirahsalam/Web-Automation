@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User input mix data types product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>492493be-37d2-4107-932b-cd764993a77c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5dc0c01f-8fcf-4002-835a-0761c455f44e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d804f05-d6ab-4c14-93b0-ec73d8c0341c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'@baju23!'</defaultValue>
+      <description></description>
+      <id>5dc0c01f-8fcf-4002-835a-0761c455f44e</id>
+      <masked>false</masked>
+      <name>product_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'_sepatu456@'</defaultValue>
+      <description></description>
+      <id>7d804f05-d6ab-4c14-93b0-ec73d8c0341c</id>
+      <masked>false</masked>
+      <name>product_2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User search with blank product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e62bba77-e3c4-4c28-9403-2afd01fddb26</testCaseGuid>
+</TestCaseEntity>
