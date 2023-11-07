@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User input unavailable product name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64a5b035-d0bd-4c95-b604-a0b7c5353fe1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbe54dcc-ef95-4cc2-a484-353fa269d801</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97c887d2-3d17-451e-a577-44ad64021f8c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7987bfa-b4c0-40b8-96e1-96c61110cb97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'unavailable1'</defaultValue>
+      <description></description>
+      <id>cbe54dcc-ef95-4cc2-a484-353fa269d801</id>
+      <masked>false</masked>
+      <name>product_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'unavailable2'</defaultValue>
+      <description></description>
+      <id>97c887d2-3d17-451e-a577-44ad64021f8c</id>
+      <masked>false</masked>
+      <name>product_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'unavailable3'</defaultValue>
+      <description></description>
+      <id>d7987bfa-b4c0-40b8-96e1-96c61110cb97</id>
+      <masked>false</masked>
+      <name>product_3</name>
+   </variable>
+</TestCaseEntity>
