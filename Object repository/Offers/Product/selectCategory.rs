@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectCategory</name>
+   <tag></tag>
+   <elementGuidId>1383b76b-772f-400c-b824-c59ff9941f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='Hobi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Hobi']</value>
+      <webElementGuid>304cea41-64b9-4d48-90f4-ed484c9930ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

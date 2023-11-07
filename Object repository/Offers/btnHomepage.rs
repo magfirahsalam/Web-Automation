@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnHomepage</name>
+   <tag></tag>
+   <elementGuidId>f13b1dd8-fbef-4cef-906e-8e9f3d50a251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='container']/a[@href='/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='container']/a[@href='/']</value>
+      <webElementGuid>fbf5ac9c-486d-41ee-8d2e-07ae91c0d9ed</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

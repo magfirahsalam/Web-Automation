@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldDeskripsiJual</name>
+   <tag></tag>
+   <elementGuidId>f893bbbb-eac8-44a9-8c17-777187d708fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id='product_description']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea[@id='product_description']</value>
+      <webElementGuid>f5c01139-88d2-41fa-82ac-fed43e796705</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

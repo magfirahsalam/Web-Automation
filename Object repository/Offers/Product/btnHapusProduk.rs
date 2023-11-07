@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnHapusProduk</name>
+   <tag></tag>
+   <elementGuidId>57264634-19a1-4818-b8aa-e5a317002176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[.='Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[.='Delete']</value>
+      <webElementGuid>6037e053-13c7-4361-85bf-959177ae9bc3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
